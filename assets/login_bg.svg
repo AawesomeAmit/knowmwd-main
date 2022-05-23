@@ -1,0 +1,15 @@
+<svg id="Group_323" data-name="Group 323" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="892.117" viewBox="0 0 412 892.117">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.475" x2="1" y2="0.479" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a66b1"/>
+      <stop offset="1" stop-color="#1f4e87"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="0.999" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a66b1"/>
+      <stop offset="1" stop-color="#225492"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_327" data-name="Rectangle 327" width="412" height="892" transform="translate(0)" fill="url(#linear-gradient)"/>
+  <path id="Path_1670" data-name="Path 1670" d="M0,432.1c45.22-19.47,24.023-144.608,40.509-173.184,21.511-37.369,45.534-30.46,64.689-58.095,30.774-44.434,15.073-132.2,36.113-158.9C161.723,16.015,206,5.181,206,0H0Z" transform="translate(412 892.117) rotate(180)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+  <path id="Path_1671" data-name="Path 1671" d="M-4.3,432.1c45.22-19.47,24.023-144.608,40.509-173.184,21.511-37.369,45.534-30.46,64.689-58.095,30.774-44.434,15.073-132.2,36.113-158.9C157.423,16.015,201.7,5.181,201.7,0H-4.3Z" transform="translate(4.3 0)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+</svg>
