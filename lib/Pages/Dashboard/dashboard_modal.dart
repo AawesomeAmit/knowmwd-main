@@ -18,6 +18,7 @@ import 'package:knowmed_flutter/Pages/KnowledgeBank/knowledgeBank_pageView.dart'
 import 'package:knowmed_flutter/Pages/LoginPage/login_page_view.dart';
 import 'package:knowmed_flutter/Pages/MockTest/mockTestSubject_view.dart';
 import 'package:knowmed_flutter/Pages/QuizBank/quizBankSubject_view.dart';
+import 'package:knowmed_flutter/Pages/Result/result_view.dart';
 import 'package:knowmed_flutter/Pages/Video/videoList_view.dart';
 import 'package:knowmed_flutter/Pages/Video/videoPlayerScreen.dart';
 
@@ -52,7 +53,7 @@ class DashboardModal {
     } else if (val == 9) {
       // app.navigate(context, const BookmarkView());
     } else if (val == 10) {
-      // app.navigate(context, const BookmarkView());
+      app.navigate(context, const ResultView());
     } else if (val == 11) {
       // user.removeUserData();
       app.navigate(context, const ChangePwdView());

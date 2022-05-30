@@ -90,7 +90,7 @@ class _ImageBankViewState extends State<ImageBankView> {
                               borderRadius: BorderRadius.circular(15)
                           ),
                           child:DropdownSearch<ResponseValue3>(
-                           label: "Select Subject",
+                           // label: "Select Subject",
                             items: modal.controller.getSubjectList,
                             mode: Mode.MENU,
                             dropdownSearchDecoration: InputDecoration(

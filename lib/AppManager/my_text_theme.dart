@@ -181,6 +181,11 @@ import 'package:knowmed_flutter/AppManager/app_color.dart';
       fontSize: 14,
       fontWeight: FontWeight.bold
   );
+  TextStyle mediumGCB=GoogleFonts.lato(
+      color: AppColor.green,
+      fontSize: 14,
+      fontWeight: FontWeight.bold
+  );
   TextStyle smallBCB=GoogleFonts.lato(
       color: AppColor.black,
       fontSize: 12,
@@ -208,8 +213,8 @@ import 'package:knowmed_flutter/AppManager/app_color.dart';
       fontSize: 14,
       fontWeight: FontWeight.normal
   );
-  TextStyle mediumGCB=GoogleFonts.lato(
-      color: AppColor.greyDark,
+  TextStyle mediumGrCB=GoogleFonts.lato(
+      color: AppColor.green,
       fontSize: 14,
       fontWeight: FontWeight.bold
   );

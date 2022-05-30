@@ -963,7 +963,7 @@ class _DashboardViewState extends State<DashboardView> {
                     ),
                     title: const Text('Statistics'),
                     onTap: () {
-                      Navigator.pop(context);
+                      modal.onPressOptions(context, 10);
                     },
                   ),
                   const SizedBox(
